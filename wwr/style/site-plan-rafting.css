@@ -1,10 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato&family=Oswald:wght@300&display=swap');
 :root {
   /* change the values below to your colors from your palette */
-  --primary-color: #2583D6   ;
-  --secondary-color: #26a826 ;
-  --accent1-color: #3328d0;
-  --accent2-color: rgb(179, 202, 52);
+  --primary-color: #3a4194  ;
+  --secondary-color: #e7c24f ;
+  --accent1-color: #a43312;
+  --accent2-color: #34c0c5;
 
    
   /* change the values below to your chosen font(s) */
