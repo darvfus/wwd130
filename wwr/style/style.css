@@ -26,6 +26,7 @@ height: 725px;
 background-color:#fdf6e3;
 }
 
+.
 body {
 background-color: #fcfbfb; 
 }
@@ -50,15 +51,24 @@ color: white;
        background-color: #22cd3b;
 }
 
+
+
 .book:hover, 
 .join:hover{
     background-color:#fdf6e3;
     color: rgb(22, 104, 220);
     text-decoration: none;
 }
+.msg{
+    background-color:rgba(20,30,13, .7);
+    color: white;
+    text-decoration: none;
+}
+
 .msg h2{
     background-color:rgba(20,30,13, .7);
     color: white
+    
 }
 .msg p{
     background-color:rgba(20,30,13, .7);
