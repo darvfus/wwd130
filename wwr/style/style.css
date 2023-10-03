@@ -36,6 +36,7 @@ background-color:rgba(20,30,13, .7);
 nav a:hover {
 background-color: rgb(68, 210, 68);
 color: white;
+text-decoration: none;
 }
 .home-title{
  
