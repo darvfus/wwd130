@@ -135,6 +135,26 @@ text-decoration: none;
     font-size:0.8em;
     padding-bottom: 15px;
 }
+
+.body1{
+    background-color: #4BD9E3;
+    height:150px;
+    padding: 5px;
+    max-width: 1600px;
+    width:100%;
+    
+  }
+  .body-img{
+    background-image: url(https://img.freepik.com/foto-gratis/fotografia-aerea-rio-rodeado-islas-cubiertas-vegetacion-luz-solar_181624-6504.jpg?size=626&ext=jpg&uid=R118132538&ga=GA1.1.1164816285.1698927933&semt=sph);
+    height:400px;
+    max-width:1600px;
+    width:100%;
+      
+    background-attachment: fixed;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover; 
+    } 
 footer{
     background-color: #6f7364;
     padding: 25px 50px;
@@ -236,8 +256,7 @@ footer .social img{
         box-sizing: border-box;
     }
 
-
-
+   
     
     @media screen and (max-width: 900px) {
         #hero, .home-grid {
