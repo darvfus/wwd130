@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Oswald:wght@300&display=swap');/*NUMER1*/
+ 
+ 
+ #content{ 
+    margin: 0 auto;
+    max-width: 1600px;
+
+}
+#logo_link {
+    padding-top: 5px;
+    justify-self: center;
+    align-self: center;
+    width: 20px;
+}
+nav {
+    display: flex;
+    justify-content: space-around;
+}
+nav a {
+    text-align: center;
+    color: white;
+    text-decoration: none;
+    padding: 35px;
+}
+nav a:hover {
+    background-color: rgb(23, 193, 227);
+    color: white;
+    text-decoration: none;
+    }
+
+header {
+    background-color:black;
+    display: grid;
+    grid-template-columns: 100px auto;
+    padding: 0;
+    }
+  
+    .body1{
+        background-color: rgb(68, 210, 68);
+        height:100px;
+        padding: 70px;
+        max-width: 1580px;
+                   }
+                   h1 {
+                    margin-top: 0; /* Elimina cualquier margen superior predeterminado */
+                }
+                
+      .body-img{
+        background-image: url(https://img.freepik.com/foto-gratis/flores-frescas-aportan-belleza-cualquier-jardin-generada-ia_188544-31012.jpg?w=1380&t=st=1700522020~exp=1700522620~hmac=8d6ddafd23525ccb72222af753ce45ebabfb5780aaeb1ee06da83334973837f0);
+        height:700px;
+        max-width:1600px;
+        width:100%;
+       
+        background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; 
+        } 
+
+        .sections {
+            max-width: 1200px; 
+            margin: 100px auto; 
+            padding: 0 20px; 
+            display: flex;
+            justify-content: space-between; 
+            flex-wrap: wrap; 
+            box-sizing: border-box; 
+        }
+        
+        
+        .image-box {
+            flex: 1; 
+            text-align: center; 
+            margin: 0 10px; 
+        }
+        
+
+        footer{
+            background-color: rgb(68, 210, 68);
+            padding: 25px 50px;
+            margin-top: 200px; 
+            display: flex;
+            justify-content: space-around;
+            align-items: center;
+        }
+        
+        footer a:hover{
+            background-color:rgba(46, 191, 220, 0.7);
+            color: #2222ca;
+            text-decoration: none;
+        }
+        
+        .icon {
+            width: 80px;
+            padding-top: 10px;
+        }
+        
+        footer a{
+            text-align: center;
+            color: #fcfbfb;
+            text-decoration: none;  
+        }
+        
+         
+        footer p {
+            font-size: 1.2em;
+            color: #fcfbfb;
+        }    
+        
+        footer p a:hover {
+            text-decoration: underline;
+        }   
+        footer .social img{
+            padding-top: 15px;
+        }
