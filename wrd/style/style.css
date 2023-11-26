@@ -75,7 +75,7 @@ header {
             width: 100%;
             height: 500px;
             object-fit: cover;
-            padding: auto;
+           
         }
         .square > .square-text-wrapper {
             display: flex;
