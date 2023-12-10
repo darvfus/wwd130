@@ -309,7 +309,7 @@ header {
   margin-top: 3em;
 }
 .map iframe {
-  width: 2000px;
+  max-width: 2000px;
   height: 1400px;
   border: 0;
 }
